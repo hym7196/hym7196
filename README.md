@@ -1,20 +1,10 @@
-</div>
-
-<br>
-
 ### 🕐 When I Code
 
-<div align="center">
-
-<img src="https://gist.githubusercontent.com/hym7196/3a5639d6e1adde1539b51caaebb362be/raw/gistfile1.txt" />
-
-</div>
+![Productive Box](https://gist.githubusercontent.com/hym7196/3a5639d6e1adde1539b51caaebb362be/raw/gistfile1.txt)
 
 <br>
 
 📈 GitHub Activity
-
-<div align="center"> 
 
 ### 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
