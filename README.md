@@ -1,6 +1,6 @@
 ### 🕐 When I Code
 
-<script src="https://gist.githubusercontent.com/hym7196/3a5639d6e1adde1539b51caaebb362be/raw/434fbd685bf7e40af27109efa81c72dbb4b30c70/I'm%2520an%2520early%2520%25F0%259F%2590%25A4"></script>
+<script src="https://gist.github.com/hym7196/3a5639d6e1adde1539b51caaebb362be.js"></script>
 
 ### 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
